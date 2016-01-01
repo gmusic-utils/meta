@@ -15,3 +15,9 @@ Issue content goes here
 
 /cc @twolfson
 ```
+
+## Attribution
+We use the following icons for our organization and repository logos:
+
+- [Gear icon](https://thenounproject.com/search/?q=gear&i=102547) by Jardson Almeida, from the Noun Project
+- [Headphones icon](https://thenounproject.com/search/?q=headphones&i=16961) by Molly Bramlet, from the Noun Project
